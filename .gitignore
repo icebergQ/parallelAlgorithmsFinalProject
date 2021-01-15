@@ -1,0 +1,12 @@
+*.exe
+*.exp
+*.lib
+*.out
+*.txt
+graham
+*~
+archive/
+*myGPU*
+z_archive/
+thrust_test/
+quickhull_cu
